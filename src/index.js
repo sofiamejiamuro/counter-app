@@ -1,7 +1,10 @@
+// jsx
 import React from 'react';
+// manipulate DOM
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+// pwa
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

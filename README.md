@@ -5,6 +5,10 @@ This project contains is based on the course [React: de cero a experto (hooks y 
 
 ### TOPICS
 
- - [ ] a
+ - [ ] Files architecture
+ - [ ] public directory content
+ - [ ] src directory content
+ - [ ] b
+ - [ ] b
  - [ ] b
  
