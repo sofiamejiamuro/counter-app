@@ -6,11 +6,11 @@ describe('Prubas destructuring arrays', () => {
     // const arr = retornaArreglo ();
     // expect( arr ).toEqual( ['ABC',123] );
     const [ letras, numeros] = retornaArreglo ();
-    expect( letras ).toBe('ABC')
-    expect( typeof letras ).toBe('string')
+    expect( letras ).toBe('ABC');
+    expect( typeof letras ).toBe('string');
   
-    expect( numeros ).toBe( 123 )
-    expect( typeof numeros ).toBe('number')
+    expect( numeros ).toBe( 123 );
+    expect( typeof numeros ).toBe('number');
   })
   
 })
