@@ -11,5 +11,6 @@ This project contains is based on the course [React: de cero a experto (hooks y 
  - [x] React && ReactDOM
  - [x] Fragment
  - [x] Proptypes
- - [x] setState
- - [x] Handle events 
+ - [x] useState
+ - [x] Handle events
+ - [x] Unit testing (Jest and Enzyme)

@@ -22,11 +22,12 @@ describe('Pruebas en componente <PrimeraApp />', () => {
       <PrimeraApp 
         saludo={ saludo }
         subtitulo={ subt }
-        />);
+      />);
 
+    // find is similar to queySelector
     const textoParrafo = wrapper.find('p').text();
-    console.log(textoParrafo);
-    expect( textoParrafo ).toBe( subt )
+    expect( textoParrafo ).toBe( subt );
+
   })
   
   
